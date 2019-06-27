@@ -61,10 +61,11 @@ export default class EmployeeProfile extends React.Component {
             contentType: "application/json",
             dataType: "json",
             success: function (res) {
+                console.log("employerData1", res)
                 let employerData = null;
-                if (res.employer) {
-                    employerData = res.employer
-                    //console.log("employerData", employerData)
+                if (res.employer) {                    
+                    employerData = res.employer;                    
+                    console.log("employerData", employerData)
                 }
                 this.updateWithoutSave(employerData)
             }.bind(this),
@@ -177,6 +178,7 @@ export default class EmployeeProfile extends React.Component {
     }
 
     render() {
+
         return (
             <BodyWrapper loaderData={this.state.loaderData} reload={this.loadData}>
                 <section className="page-body">

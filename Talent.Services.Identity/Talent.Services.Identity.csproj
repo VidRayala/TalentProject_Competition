@@ -34,6 +34,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\App\Talent.App.WebApp\wwwroot\js\react\ReactScripts\Employer\ManageJob\ManageJob.jsx" Link="ManageJob.jsx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Talent.Common\Talent.Common.csproj" />
   </ItemGroup>
 

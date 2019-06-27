@@ -8016,10 +8016,12 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "xvrhPEDIHEZWNSkhxlVmUlRAth3wAVoczsAnJTikLzdZhrL5HZj8dvQMzpfWdTHY2Mca7F5F/NY6tkuDNPAe8Q==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net35/Remotion.Linq.XML",
         "lib/net35/Remotion.Linq.dll",
         "lib/net40/Remotion.Linq.XML",
@@ -8120,10 +8122,11 @@
       ]
     },
     "runtime.native.System.Net.Security/4.3.0": {
-      "sha512": "d/fW/UK2qi9POtY8DqcqN4jToJqIuMq9lFMi57cmplRiGSsPlWZhEPpwAvwmxDlln05hGE6FUuWIt5C/f72G5Q==",
+      "sha512": "M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
       "type": "package",
       "path": "runtime.native.system.net.security/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -8661,10 +8664,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "0ioThDnr5MCtg+EPhvGSXOhExjYgB57QdZBbCb38y/Q/ro1MtywxBy/M0idRNiwS1uii2OpJd0xTKBkxKn4mDA==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8698,10 +8702,11 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "e+Kfue4iy+QPU8px7yCwBWX0hpRPIbgey6SDi6rsHvgwd+YoMS9tdr+FOzkzSXvNTLPpIvMbNoeaQ/7OcF1uBA==",
+      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8735,10 +8740,11 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "cI8XuhJizYU7YanPWLi/88VVG+XVMJyi1aBdZXpgA4eqAf0z89CpcvQCr3MWgKWL8MimKW0QzOrrzHSlExpk6w==",
+      "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8877,10 +8883,11 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "mhYpG60F6Ru+3dMDxEnlTvH6P9fetth5QG1dDpXwPN5IcsY/Pict5im39z0VCS2JqFZEhJ1oLZPcucm7xVHRnQ==",
+      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8914,10 +8921,11 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "cA7LJ7fWdNTCZ2nervJG6TvTwXVH2NAsOMb0GiV106uTpcdLrkXh31aZKUE8VNtTzIChuUqTaC9AXu9Sj+9FmQ==",
+      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9143,10 +9151,11 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "xfEXB54XuHz8ud6kJXBGJkb3GFn4SGoV06brwpaEQSLdw1rCUz/IkDSZIYABAAV5svMygB5vtdPN3hsTO1jPzg==",
+      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9513,10 +9522,11 @@
       ]
     },
     "System.Dynamic.Runtime/4.3.0": {
-      "sha512": "IfOmslx0Rf8tBGpKC/tDrmUFuf/mf1heqTR4HtawwdbktP1J19yIFFcow8qahxzEw+SH/VrDR/5ME/pNKqQ7/g==",
+      "sha512": "SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
       "type": "package",
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10128,10 +10138,11 @@
       ]
     },
     "System.Linq.Parallel/4.3.0": {
-      "sha512": "29iNi2yHfh819D4iwAWsxkMqoLIW4nRJhFRu25LiNW/g1wlR0hO9PMd9OjSN2UZqKO/oEuob7NokDvv+XUslOQ==",
+      "sha512": "td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
       "type": "package",
       "path": "system.linq.parallel/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11562,10 +11573,11 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "g+MbiLYyzYELROimObds6TJvVvAjtoIztsmoPWbdXaltPVZ7P72puoKiPk34qI2wGxX1hjpp+V+ejWU/6fGz5g==",
+      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12548,10 +12560,12 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.3.0": {
-      "sha512": "iyLZDpwksHOOkbTS05wI/Vm69YSmj/CSqAdGPip6XCRvzvKYiY8irSTIqgETonAb/gSEN44TVb3NgSn+EjCotg==",
+      "sha512": "cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
       "type": "package",
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12603,10 +12617,11 @@
       ]
     },
     "System.Threading.Thread/4.3.0": {
-      "sha512": "WlTFBTYIRE+zhogFtytBkqfOOg79aKxBrsj9Ly0VKG7/b7reENeOecym1Y6oc/KOjIPrvk84nIs95xtqu85kzg==",
+      "sha512": "OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
       "type": "package",
       "path": "system.threading.thread/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12641,10 +12656,11 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "ZGHEYpIy3lSlN9D7ivRU33n1TiKRmgPgwfgLk/CHvj5DaHfiFHdRF+JQGny/3mKa1tcksZcGW/p4mbGAoZ0ijA==",
+      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -13123,26 +13139,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ruying Ng\\.nuget\\packages\\": {},
+    "C:\\Users\\vid\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Talent-Competition\\Talent\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\vid\\Source\\Repos\\talent-competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "projectName": "Talent.App.WebApp",
-      "projectPath": "C:\\Talent-Competition\\Talent\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
-      "packagesPath": "C:\\Users\\Ruying Ng\\.nuget\\packages\\",
-      "outputPath": "C:\\Talent-Competition\\Talent\\App\\Talent.App.WebApp\\obj\\",
+      "projectPath": "C:\\Users\\vid\\Source\\Repos\\talent-competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "packagesPath": "C:\\Users\\vid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vid\\Source\\Repos\\talent-competition\\App\\Talent.App.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ruying Ng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

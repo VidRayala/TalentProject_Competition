@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\CreateJob",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\ManageJob",
+    "\\Talent.Services.Identity"
+  ],
+  "SelectedNode": "\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
+  "PreviewInSolutionExplorer": false
+}

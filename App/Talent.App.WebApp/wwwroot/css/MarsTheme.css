@@ -1460,4 +1460,7 @@ div.ReactTags__selected a.ReactTags__remove {
 .ui.dropdown.manage-jobs{
     margin-bottom: 10px;
 }
+.style.manage-jobs{
+    color:darkgrey;
+}
 /*Manage jobs - End*/

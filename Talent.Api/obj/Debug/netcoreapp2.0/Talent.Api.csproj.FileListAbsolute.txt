@@ -24,3 +24,17 @@ C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.Ass
 C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
 C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
 C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.deps.json
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.json
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.dll
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.pdb
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csprojAssemblyReference.cache
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
+C:\Users\vid\Source\Repos\talent-competition\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb

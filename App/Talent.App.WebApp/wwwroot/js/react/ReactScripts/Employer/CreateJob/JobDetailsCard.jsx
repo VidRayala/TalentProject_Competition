@@ -84,7 +84,7 @@ export class JobDetailsCard extends React.Component {
 
                 <div className="content">
                     <div className="ui form">
-                        <div className="ui small feed">
+                        <div className="ui small feed">                                                                                                                                                                                                                                     
                             <div className="event">
                                 <div className="content">
                                     <div className="summary">
